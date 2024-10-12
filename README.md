@@ -1,3 +1,2 @@
-# France-IOI
-Contient la liste des problèmes résolus en Python et en C sur la plateforme [France-IOI](https://www.france-ioi.org/algo/chapters.php).
-Le nombre de problèmes résolus et ma progression sur la pateforme peut être consulté directement via [mon profil](https://www.france-ioi.org/user/perso.php?sLogin=vilkinart)
+Programme permettant d'afficher 135 fois une phrase à l'écran. 
+Cliquez [ici](https://www.france-ioi.org/algo/task.php?idChapter=643&idTask=1876) pour plus de détails sur le problème.
