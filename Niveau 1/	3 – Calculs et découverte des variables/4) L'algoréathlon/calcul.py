@@ -1,11 +1,7 @@
-Dnatation = 2
-Dcyclisme = 34
-Dcourse = 6
-Djour1 = Dnatation + Dcyclisme + Dcourse
-print(Djour1, end = "")
-print(" ", end = "")
-Djour2 = Djour1 + Dnatation + Dcyclisme + Dcourse
-print(Djour2, end = "")
-print(" ", end = "")
-Djour3 = Djour2 + Dnatation + Dcyclisme + Dcourse
-print(Djour3)
+distance = 2 + 34 + 6
+J1 = distance
+J2 = distance * 2
+J3 = distance * 3
+print(J1, end=" ")
+print(J2, end=" ")
+print(J3, end=" ")
